@@ -141,7 +141,7 @@ h1:after {
     padding: 30px 20px;
     font-size: 16px;
     line-height: 26px;
-    height: 230px;
+    height: auto;
     background: rgb(175, 19, 19);
     color: #fff;
 }
@@ -207,6 +207,7 @@ h1:after {
 
 #footer-part{
     background: #ffebba;
+    padding-bottom: 50px;
 }
 #footer-part .contact h1 {
     font-family: 'Rowdies', cursive;
